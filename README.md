@@ -4,7 +4,7 @@
 
 Este é um teste para que possamos ver as suas habilidades como Front Developer.
 
-Nesse teste você deverá desenvolver um projeto para listar pokémons, utilizando como base a API [https://pokeapi.co/](https://pokeapi.co/ "https://pokeapi.co/"). O
+Nesse teste você deverá desenvolver um projeto para listar pokémons, utilizando como base a API [https://pokeapi.co/](https://pokeapi.co/ "https://pokeapi.co/").
 
 [SPOILER] As instruções de entrega e apresentação do teste estão no final deste Readme (=
 

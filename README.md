@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este é um teste para que possamos ver as suas habilidades como Front Developer.
+Este é um teste para que possamos ver as suas habilidades como Backend Developer.
 
 Nesse teste você deverá desenvolver um projeto para listar pokémons, utilizando como base a API [https://pokeapi.co/](https://pokeapi.co/ "https://pokeapi.co/").
 
@@ -18,12 +18,14 @@ Nesse teste você deverá desenvolver um projeto para listar pokémons, utilizan
 
 - Get para 10 Pokémon aleatórios
 - GetByID para 1 Pokémon específico
-- Cadastro do mestre pokemon (dados básicos como nome, idade e cpf) em SQLite4 - Post para informar que um Pokémon foi capturado.5 - Listagem dos Pokémon já capturados.
+- Cadastro do mestre pokemon (dados básicos como nome, idade e cpf) em SQLite
+- Post para informar que um Pokémon foi capturado.
+- Listagem dos Pokémon já capturados.
   
 
 ### Requisitos
 
-1 - Todas elas devem retornar os dados básicos do Pokémon, suas evoluções e o base64 de sprite default de cada Pokémon.
+1 - Todos os endpoints devem retornar os dados básicos do Pokémon, suas evoluções e o base64 de sprite default de cada Pokémon.
 
 
 ## Readme do Repositório
